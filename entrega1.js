@@ -1,14 +1,14 @@
 //EJERCICIO VARIABLE-FUNCION
 
-// let num1 = parseInt(prompt("ingrese un valor numerico: "))
-// let num2 = 7
+let num1 = parseInt(prompt("ingrese un valor numerico: "))
+let num2 = 7
 
-// function sumarNumeros(a, b) {
-//     let resultado = num1 + num2 
-//     return resultado
-// } 
+function sumarNumeros(a, b) {
+    let resultado = num1 + num2 
+    return resultado
+} 
 
-// alert(sumarNumeros(num1, num2))
+alert(sumarNumeros(num1, num2))
 
 
 
