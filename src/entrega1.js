@@ -5,7 +5,7 @@ let num2 = parseInt(prompt("ingrese el segundo número: "))
 
 function sumarNumeros(a, b) {
     let resultado = num1 + num2 
-    alert("El resultado de la suma es: " + resultado)
+    alert("El resultado de la suma es...")
     return resultado
 } 
 
