@@ -5,11 +5,11 @@ let num2 = parseInt(prompt("ingrese el segundo número: "))
 
 function sumarNumeros(a, b) {
     let resultado = num1 + num2 
-    alert("El resultado de la suma es...")
+    alert("El resultado de la suma es: " + resultado)
     return resultado
 } 
 
-alert(sumarNumeros(num1, num2))
+
 let resultado = sumarNumeros(num1, num2)
 
 let consulta = prompt('¿Desea multiplicar el resultado por otro número entero?. Responda "si" o "no"')
